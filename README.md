@@ -88,7 +88,7 @@ requirements.txt          # Python dependencies
 
 ## License
 
-This project is provided for educational purposes and may be adapted for research or commercial use with appropriate attribution.
+This project is provided for educational purposes and may be adapted for research or commercial use with appropriate attribution and express consent from the project author(s)
 
 ---
 
